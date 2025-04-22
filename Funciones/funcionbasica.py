@@ -13,3 +13,6 @@ def sumatresnumeros(num1,num2,num3):
     
 saludar()
 sumatresnumeros (8,9,10)
+
+def numerosprimos():
+    print("imrpeime numeros primos")
